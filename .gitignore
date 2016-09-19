@@ -1,6 +1,7 @@
-testing/
-testing_fly/
-*.json
+nodesDB.txt
+tests/
 *.pyc
-*.txt
 *.png
+test_files/blobDB.table.txt
+*.gz
+*.fq
